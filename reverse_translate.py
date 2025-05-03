@@ -4,7 +4,7 @@ import re
 import json  # Add json import
 
 # It's better practice to get the API key from environment variables
-GEMINI_API_KEY = "AIzaSyCN_ngrcQAXqB-vAgbsk89ay1aIYLs_tN8" # Get from environment variable
+GEMINI_API_KEY " # Get from environment variable
 
 import google.generativeai as genai
 
